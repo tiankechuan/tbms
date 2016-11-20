@@ -1,0 +1,8 @@
+#!/home/tkc/app/node-v6.9.1-linux-x64/bin node
+
+var app = require("../app");
+var config = require("../config/config");
+
+app.listen(config.port,function(){
+	console.log("app started , listening on port : "+config.port);
+});

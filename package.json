@@ -1,0 +1,14 @@
+{
+  "name": "tbms",
+  "version": "1.0.0",
+  "description": "淘宝账号管理系统",
+  "main": "bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tbms"
+  ],
+  "author": "tkc",
+  "license": "ISC"
+}
